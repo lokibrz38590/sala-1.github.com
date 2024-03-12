@@ -6,7 +6,9 @@ echo "Hello World" > index.html
 
     <title>The Official Pokémon Website | Pokemon.co.uk</title>
 
-
+<sectios class="texto">
+<h1>esse é um mundo de aventuras e de discobertas<h1>
+<p>você vai  gostar de mais e vai ter descobertas muito boas<p>
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
